@@ -1,1 +1,4 @@
-# cecs-457-applied-ml
+## Course: Applied Machine Learning 
+## Class: CECS 457, Section 2
+## Student:  Daniel Jo
+## Semester: Fall 2023
